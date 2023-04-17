@@ -1,4 +1,5 @@
 #!/bin/bash
+./wp.sh
 
 # Input
 read -p "Masukkan nama database MySQL: " dbname
