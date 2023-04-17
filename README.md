@@ -4,7 +4,7 @@
 
 ##### 1. Download the script:
 ```
-sudo wget https://raw.githubusercontent.com/oliverawi/WordPress-Complete-Installation-on-CentOs-7/wp.sh
+sudo wget https://raw.githubusercontent.com/oliverawi/WordPress-Complete-Installation-on-CentOs-7/master/wp.sh
 ```
 #### 2. Make the script executable
 ```
